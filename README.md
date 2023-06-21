@@ -45,14 +45,13 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 - Special thanks to Codubuck YT for his amazing tutorial - https://www.youtube.com/@CodeBucks
 - Thanks to the creators and contributors of React.js, Coingecko API, Recharts, and Tailwind CSS for their excellent tools and documentation.
 
-
-### Resources Used in This Project
+## Resources Used in This Project
 
 - Fonts from https://fonts.google.com/ <br />
 - Icons from https://iconify.design/ <br />
 - API from https://www.coingecko.com/en/api <br />
 
-### External Libraries used in this project:
+## External Libraries used in this project:
 
 - [Tailwind css](https://tailwindcss.com/) <br />
 - [recharts](https://recharts.org/en-US/) <br />
