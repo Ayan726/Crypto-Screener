@@ -42,7 +42,7 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 ## Acknowledgments
 
 - The project was developed to showcase my skills in React.js and utilizing external APIs.
-- Special thanks to Codubuck YT for his amazing tutorial - https://www.youtube.com/@CodeBucks
+- Special thanks to Codebucks YT for his amazing tutorial - https://www.youtube.com/@CodeBucks
 - Thanks to the creators and contributors of React.js, Coingecko API, Recharts, and Tailwind CSS for their excellent tools and documentation.
 
 ## Resources Used in This Project
